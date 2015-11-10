@@ -7,7 +7,7 @@ title: Blog using Hexo
 subtitle:
 description:
 author: Derek Zuk
-language: default
+language: en
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: light
+theme: tranquilpeak
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
