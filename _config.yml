@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog using Hexo
-subtitle:
-description:
+title: Web Application Development and Automated Testing
+subtitle: My Blog
+description: https://derekzuk.github.io
 author: Derek Zuk
-language: en
+language: default
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: tranquilpeak
+theme: light
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
